@@ -1,7 +1,7 @@
 # Marantz-Controller-SR
 A Copy of the original MarantzController https://github.com/richha555/Marantz and the famous R232 TCP Marantz Command Line https://github.com/Ericvf/RS232c-Tcp-Marantz
 
-Note: This is not a active development Project. It is h´just for me to find and test IP Command to my Marantz AVR SR7015
+Note: This is not a active development Project. I use it to find and test IP Commands with my Marantz AVR SR7015
 For Users I recommend to use the exiting and amazing App AVR Maestro
 https://avrmaestro.com/
 
