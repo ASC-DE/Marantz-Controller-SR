@@ -6,7 +6,7 @@ For Users I recommend to use the exiting and amazing App AVR Maestro
 https://avrmaestro.com/
 
 The Marantz-Controller Tool I have rebuild with newer Newton Soft Json Library, included an INI Reader/Writer for IP Settings and a bit cleaned up the code.
-The Front/Rear Balance Slider is not working and if using the Volume Slider the app will crash.
+The Front/Rear Balance Slider is not working and cause App Errors while using.
 <img width="1384" height="795" alt="MC-IP" src="https://github.com/user-attachments/assets/6deb3a0c-53b7-4f13-88f0-0f6a424285cb" />
 
 <img width="1384" height="765" alt="MC-IP-C" src="https://github.com/user-attachments/assets/afe30514-acd4-4249-ad27-cc72e6ba34e3" />
