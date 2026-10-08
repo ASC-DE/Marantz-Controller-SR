@@ -1,0 +1,15 @@
+D:\My Projects\VS\Marantz-Controller\MarantzController\bin\Debug\Commands.json
+D:\My Projects\VS\Marantz-Controller\MarantzController\bin\Debug\settings.ini
+D:\My Projects\VS\Marantz-Controller\MarantzController\bin\Debug\MarantzController.exe.config
+D:\My Projects\VS\Marantz-Controller\MarantzController\bin\Debug\MarantzController.exe
+D:\My Projects\VS\Marantz-Controller\MarantzController\bin\Debug\MarantzController.pdb
+D:\My Projects\VS\Marantz-Controller\MarantzController\bin\Debug\Newtonsoft.Json.dll
+D:\My Projects\VS\Marantz-Controller\MarantzController\bin\Debug\Newtonsoft.Json.xml
+D:\My Projects\VS\Marantz-Controller\MarantzController\obj\Debug\Marantz-Controller.csproj.AssemblyReference.cache
+D:\My Projects\VS\Marantz-Controller\MarantzController\obj\Debug\MarantzController.frmControler.resources
+D:\My Projects\VS\Marantz-Controller\MarantzController\obj\Debug\MarantzController.Properties.Resources.resources
+D:\My Projects\VS\Marantz-Controller\MarantzController\obj\Debug\Marantz-Controller.csproj.GenerateResource.cache
+D:\My Projects\VS\Marantz-Controller\MarantzController\obj\Debug\Marantz-Controller.csproj.CoreCompileInputs.cache
+D:\My Projects\VS\Marantz-Controller\MarantzController\obj\Debug\Marantz-.9A0CEBEA.Up2Date
+D:\My Projects\VS\Marantz-Controller\MarantzController\obj\Debug\MarantzController.exe
+D:\My Projects\VS\Marantz-Controller\MarantzController\obj\Debug\MarantzController.pdb
