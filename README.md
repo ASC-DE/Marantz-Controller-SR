@@ -6,7 +6,8 @@ For Users I recommend to use the exiting and amazing App AVR Maestro
 https://avrmaestro.com/
 
 The Marantz-Controller Tool I have rebuild with newer Newton Soft Json Library, included an INI Reader/Writer for IP Settings and a bit cleaned up the code.
+Add Console Input to send IP Commands, added Clear Send / Receive and added save Send / Receive save to Text File.
 The Front/Rear Balance Slider is not working and cause App Errors while using.
-<img width="1384" height="795" alt="MC-IP" src="https://github.com/user-attachments/assets/6deb3a0c-53b7-4f13-88f0-0f6a424285cb" />
 
-<img width="1384" height="765" alt="MC-IP-C" src="https://github.com/user-attachments/assets/afe30514-acd4-4249-ad27-cc72e6ba34e3" />
+<img width="1394" height="797" alt="Capture-263_12-10-2026-06-06-19" src="https://github.com/user-attachments/assets/30b0e9b0-d7cc-448a-bea7-6aa5e7ea8963" />
+<img width="1394" height="797" alt="Capture-262_12-10-2026-06-04-26" src="https://github.com/user-attachments/assets/a7767a37-0793-4d0c-b7ae-8166a7bb6d54" />
